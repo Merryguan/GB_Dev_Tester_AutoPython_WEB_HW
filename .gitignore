@@ -1,0 +1,12 @@
+# Exclude IDE files
+/.idea/
+/.venv/
+.pytest_cache/
+__pycache__/
+
+# Exclude config files
+/Sem_1/config.yaml
+/Sem_2/config.yaml
+/config.yaml
+
+/Sem_2/chromedriver.exe

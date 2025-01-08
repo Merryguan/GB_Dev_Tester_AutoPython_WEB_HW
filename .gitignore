@@ -7,6 +7,8 @@ __pycache__/
 # Exclude config files
 /Sem_1/config.yaml
 /Sem_2/config.yaml
+/Sem_3/config.yaml
 /config.yaml
 
+# Exclude WebDriver
 /Sem_2/chromedriver.exe
